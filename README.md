@@ -1,0 +1,1 @@
+Creating an image with the symbol * by having the system convert the image into pixels, then convert the pixels to 0 or 1 into an array, then convert those values to spaces and replace the * symbol before Show results.
